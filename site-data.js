@@ -3,8 +3,8 @@ window.SITE_DATA = {
     "name": "simry",
     "tagline": "movie / motion graphics",
     "availability": "ご依頼受付中",
-    "description": "歌ってみたMV、short動画、配信映像などの制作をしています。",
-    "about": "さわやか系とダークな世界観が得意です。",
+    "description": "歌ってみたMV、モーショングラフィックス、配信映像などの制作をしています。",
+    "about": "魅せる映像を作るために映像制作をしています。\nさわやか系とダークな世界観が得意です。",
     "tools": [
       "After Effects",
       "Blender",
@@ -14,7 +14,7 @@ window.SITE_DATA = {
     "profileImage": "assets/profile-icon.png",
     "xUrl": "https://x.com/simry_movie",
     "email": "simrymovie@gmail.com",
-    "worksSortMode": "manual",
+    "worksSortMode": "youtube-newest",
     "dateGrouping": "year"
   },
   "works": [
@@ -33,14 +33,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-06-02T09:00:03Z",
       "publishedDate": "2025-06-02",
       "youtubeChannelTitle": "紅鴉・シャミヤール",
-      "metadataSyncedAt": "2026-10-31T03:40:41.847Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.122Z",
       "thumbnail": "https://i.ytimg.com/vi/1jMQm0Ju5z0/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:38.313Z"
+      "titleSyncedAt": "2026-10-31T08:39:29.027Z"
     },
     {
       "id": "work-mvvszn18-d83f5",
@@ -57,14 +57,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-05-29T09:00:12Z",
       "publishedDate": "2025-05-29",
       "youtubeChannelTitle": "are Ch. / はるなぎあれ",
-      "metadataSyncedAt": "2026-10-31T03:40:41.848Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.122Z",
       "thumbnail": "https://i.ytimg.com/vi/EXnX_nDuP1I/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:38.380Z"
+      "titleSyncedAt": "2026-10-31T08:39:29.087Z"
     },
     {
       "id": "work-mvvszn18-489cb",
@@ -81,14 +81,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-05-22T11:00:06Z",
       "publishedDate": "2025-05-22",
       "youtubeChannelTitle": "透玲うたは",
-      "metadataSyncedAt": "2026-10-31T03:40:41.848Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.122Z",
       "thumbnail": "https://i.ytimg.com/vi/8_elDGKtExA/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:38.438Z"
+      "titleSyncedAt": "2026-10-31T08:39:29.145Z"
     },
     {
       "id": "work-mvvszn18-ixzlk",
@@ -105,14 +105,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-05-16T08:02:32Z",
       "publishedDate": "2025-05-16",
       "youtubeChannelTitle": "明心ヨミ",
-      "metadataSyncedAt": "2026-10-31T03:40:41.848Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.122Z",
       "thumbnail": "https://i.ytimg.com/vi/9-FAVIeO66E/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:38.498Z"
+      "titleSyncedAt": "2026-10-31T08:39:29.202Z"
     },
     {
       "id": "work-mvvszn18-mhicq",
@@ -129,14 +129,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-06-01T09:00:42Z",
       "publishedDate": "2025-06-01",
       "youtubeChannelTitle": "59ryuuのねぐら",
-      "metadataSyncedAt": "2026-10-31T03:40:41.848Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.122Z",
       "thumbnail": "https://i.ytimg.com/vi/WXRSdBq5xr8/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:38.554Z"
+      "titleSyncedAt": "2026-10-31T08:39:29.265Z"
     },
     {
       "id": "work-mvvszn19-od033",
@@ -153,14 +153,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-07-03T09:00:06Z",
       "publishedDate": "2025-07-03",
       "youtubeChannelTitle": "さんせーくん",
-      "metadataSyncedAt": "2026-10-31T03:40:41.848Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.122Z",
       "thumbnail": "https://i.ytimg.com/vi/PqPblfGCnPw/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:38.617Z"
+      "titleSyncedAt": "2026-10-31T08:39:29.329Z"
     },
     {
       "id": "work-mvvszn19-b525z",
@@ -177,14 +177,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-06-30T11:00:06Z",
       "publishedDate": "2025-06-30",
       "youtubeChannelTitle": "海凪みみ minagimimi",
-      "metadataSyncedAt": "2026-10-31T03:40:41.848Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.122Z",
       "thumbnail": "https://i.ytimg.com/vi/L22Zv1K7TE8/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:38.676Z"
+      "titleSyncedAt": "2026-10-31T08:39:29.396Z"
     },
     {
       "id": "work-mvvszn19-fl623",
@@ -199,14 +199,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-07-01T13:05:04Z",
       "publishedDate": "2025-07-01",
       "youtubeChannelTitle": "simry",
-      "metadataSyncedAt": "2026-10-31T03:40:41.848Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.122Z",
       "thumbnail": "https://i.ytimg.com/vi/uo1wSBP1buo/hqdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:38.734Z"
+      "titleSyncedAt": "2026-10-31T08:39:29.453Z"
     },
     {
       "id": "work-mvvszn19-zn71e",
@@ -223,14 +223,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-03-04T11:00:32Z",
       "publishedDate": "2025-03-04",
       "youtubeChannelTitle": "宵夜美世《よいやみよ》ch.",
-      "metadataSyncedAt": "2026-10-31T03:40:41.848Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.122Z",
       "thumbnail": "https://i.ytimg.com/vi/J30EyiZVUaU/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:38.790Z"
+      "titleSyncedAt": "2026-10-31T08:39:29.516Z"
     },
     {
       "id": "work-mvvszn19-pq4kh",
@@ -247,14 +247,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-02-14T10:00:06Z",
       "publishedDate": "2025-02-14",
       "youtubeChannelTitle": "かれーな / cuReyna ",
-      "metadataSyncedAt": "2026-10-31T03:40:41.849Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.122Z",
       "thumbnail": "https://i.ytimg.com/vi/AuaGYeppYIM/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:38.852Z"
+      "titleSyncedAt": "2026-10-31T08:39:29.575Z"
     },
     {
       "id": "work-mvvszn19-dudic",
@@ -271,14 +271,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-03-20T10:01:07Z",
       "publishedDate": "2025-03-20",
       "youtubeChannelTitle": "イルネス公爵!!V2",
-      "metadataSyncedAt": "2026-10-31T03:40:41.849Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.122Z",
       "thumbnail": "https://i.ytimg.com/vi/o5FSAOUkzKs/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:38.909Z"
+      "titleSyncedAt": "2026-10-31T08:39:29.637Z"
     },
     {
       "id": "work-mvvszn19-h5ntc",
@@ -295,14 +295,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-09-24T13:20:06Z",
       "publishedDate": "2025-09-24",
       "youtubeChannelTitle": "空跳つもり / Soratobu Tsumori 【 re;BON 】",
-      "metadataSyncedAt": "2026-10-31T03:40:41.849Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.122Z",
       "thumbnail": "https://i.ytimg.com/vi/Ym_GS2oRIOY/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
-      "featured": true,
+      "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:38.977Z"
+      "titleSyncedAt": "2026-10-31T08:39:25.344Z"
     },
     {
       "id": "work-mvvszn19-rz6m2",
@@ -319,14 +319,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-09-24T10:00:06Z",
       "publishedDate": "2025-09-24",
       "youtubeChannelTitle": "Asahi",
-      "metadataSyncedAt": "2026-10-31T03:40:41.849Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.122Z",
       "thumbnail": "https://i.ytimg.com/vi/WihM_HKnvHo/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.036Z"
+      "titleSyncedAt": "2026-10-31T08:39:25.420Z"
     },
     {
       "id": "work-mvvszn19-q9vg8",
@@ -343,14 +343,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-09-03T12:00:06Z",
       "publishedDate": "2025-09-03",
       "youtubeChannelTitle": "海丑かなたch.",
-      "metadataSyncedAt": "2026-10-31T03:40:41.849Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/vja5i-0x8aU/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.094Z"
+      "titleSyncedAt": "2026-10-31T08:39:25.505Z"
     },
     {
       "id": "work-mvvszn19-57dh5",
@@ -367,14 +367,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-08-01T11:00:03Z",
       "publishedDate": "2025-08-01",
       "youtubeChannelTitle": "藤宮りんご / Fujimiya Ringo",
-      "metadataSyncedAt": "2026-10-31T03:40:41.849Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/1UwxZYZBY3o/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.150Z"
+      "titleSyncedAt": "2026-10-31T08:39:25.585Z"
     },
     {
       "id": "work-mvvszn19-trlb9",
@@ -389,14 +389,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-08-05T13:01:22Z",
       "publishedDate": "2025-08-05",
       "youtubeChannelTitle": "雪柳リイラ",
-      "metadataSyncedAt": "2026-10-31T03:40:41.849Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/kTYZB4tBpy0/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.208Z"
+      "titleSyncedAt": "2026-10-31T08:39:25.666Z"
     },
     {
       "id": "work-mvvszn1a-vukw8",
@@ -413,14 +413,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-07-21T09:00:09Z",
       "publishedDate": "2025-07-21",
       "youtubeChannelTitle": "873-YANAMI-",
-      "metadataSyncedAt": "2026-10-31T03:40:41.849Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/3AorELkCyvk/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.268Z"
+      "titleSyncedAt": "2026-10-31T08:39:25.748Z"
     },
     {
       "id": "work-mvvszn1a-dutos",
@@ -437,14 +437,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-07-05T09:00:05Z",
       "publishedDate": "2025-07-05",
       "youtubeChannelTitle": "are Ch. / はるなぎあれ",
-      "metadataSyncedAt": "2026-10-31T03:40:41.849Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/8jXwIDmsWgw/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.326Z"
+      "titleSyncedAt": "2026-10-31T08:39:25.832Z"
     },
     {
       "id": "work-mvvszn1a-spw62",
@@ -460,14 +460,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-07-21T13:00:18Z",
       "publishedDate": "2025-07-21",
       "youtubeChannelTitle": "ゆなた【ツッコミ】",
-      "metadataSyncedAt": "2026-10-31T03:40:41.849Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/6fZ6qSIgybA/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.383Z"
+      "titleSyncedAt": "2026-10-31T08:39:25.897Z"
     },
     {
       "id": "work-mvvszn1a-0mc1l",
@@ -482,14 +482,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-07-29T10:04:18Z",
       "publishedDate": "2025-07-29",
       "youtubeChannelTitle": "simry",
-      "metadataSyncedAt": "2026-10-31T03:40:41.849Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/CSjM0jUtOEM/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.446Z"
+      "titleSyncedAt": "2026-10-31T08:39:25.977Z"
     },
     {
       "id": "work-mvvszn1a-8a379",
@@ -506,14 +506,14 @@ window.SITE_DATA = {
       "publishedAt": "2024-02-28T11:00:29Z",
       "publishedDate": "2024-02-28",
       "youtubeChannelTitle": "夜明ルヴ",
-      "metadataSyncedAt": "2026-10-31T03:40:41.849Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/YxWdrTvy9JA/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.502Z"
+      "titleSyncedAt": "2026-10-31T08:39:26.060Z"
     },
     {
       "id": "work-mvvszn1a-yseuk",
@@ -530,14 +530,14 @@ window.SITE_DATA = {
       "publishedAt": "2024-07-28T11:00:30Z",
       "publishedDate": "2024-07-28",
       "youtubeChannelTitle": "CV_ふわくん",
-      "metadataSyncedAt": "2026-10-31T03:40:41.850Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/OSJNlxDGKJY/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.562Z"
+      "titleSyncedAt": "2026-10-31T08:39:26.138Z"
     },
     {
       "id": "work-mvvszn1a-zhwpt",
@@ -554,14 +554,14 @@ window.SITE_DATA = {
       "publishedAt": "2024-08-24T11:00:21Z",
       "publishedDate": "2024-08-24",
       "youtubeChannelTitle": "あるとら【公式】",
-      "metadataSyncedAt": "2026-10-31T03:40:41.850Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/FmWZB76fgAs/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.619Z"
+      "titleSyncedAt": "2026-10-31T08:39:26.224Z"
     },
     {
       "id": "work-mvvszn1a-n0m2c",
@@ -578,14 +578,14 @@ window.SITE_DATA = {
       "publishedAt": "2024-11-24T13:16:53Z",
       "publishedDate": "2024-11-24",
       "youtubeChannelTitle": "イルネス公爵!!V2",
-      "metadataSyncedAt": "2026-10-31T03:40:41.850Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/Yi4_qL80jO8/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.678Z"
+      "titleSyncedAt": "2026-10-31T08:39:26.303Z"
     },
     {
       "id": "work-mvvszn1a-20unr",
@@ -602,14 +602,14 @@ window.SITE_DATA = {
       "publishedAt": "2024-08-10T08:00:22Z",
       "publishedDate": "2024-08-10",
       "youtubeChannelTitle": "さんせーくん",
-      "metadataSyncedAt": "2026-10-31T03:40:41.850Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/bVXgRrBHl7A/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.735Z"
+      "titleSyncedAt": "2026-10-31T08:39:26.382Z"
     },
     {
       "id": "work-mvvszn1a-szoi6",
@@ -626,14 +626,14 @@ window.SITE_DATA = {
       "publishedAt": "2024-12-28T08:59:00Z",
       "publishedDate": "2024-12-28",
       "youtubeChannelTitle": "are Ch. / はるなぎあれ",
-      "metadataSyncedAt": "2026-10-31T03:40:41.850Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/XBkafHoOSwk/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.792Z"
+      "titleSyncedAt": "2026-10-31T08:39:26.458Z"
     },
     {
       "id": "work-mvvszn1b-wland",
@@ -650,14 +650,14 @@ window.SITE_DATA = {
       "publishedAt": "2024-10-31T11:01:11Z",
       "publishedDate": "2024-10-31",
       "youtubeChannelTitle": "あるとら【公式】",
-      "metadataSyncedAt": "2026-10-31T03:40:41.850Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/wqO1ZHAnCWQ/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.847Z"
+      "titleSyncedAt": "2026-10-31T08:39:26.536Z"
     },
     {
       "id": "work-mvvszn1b-75o58",
@@ -675,14 +675,14 @@ window.SITE_DATA = {
       "publishedAt": "2024-08-27T10:00:02Z",
       "publishedDate": "2024-08-27",
       "youtubeChannelTitle": "しゃけ@イラスト系Vsinger",
-      "metadataSyncedAt": "2026-10-31T03:40:41.850Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/38k1B6VTIms/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.909Z"
+      "titleSyncedAt": "2026-10-31T08:39:26.628Z"
     },
     {
       "id": "work-mvvszn1b-1dmg9",
@@ -699,14 +699,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-10-10T11:00:06Z",
       "publishedDate": "2025-10-10",
       "youtubeChannelTitle": "海刀しゃち",
-      "metadataSyncedAt": "2026-10-31T03:40:41.850Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/XZ-p7qP5-oc/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:39.965Z"
+      "titleSyncedAt": "2026-10-31T08:39:26.708Z"
     },
     {
       "id": "work-mvvszn1b-vkaij",
@@ -723,14 +723,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-10-31T11:01:41Z",
       "publishedDate": "2025-10-31",
       "youtubeChannelTitle": "すぴなーく",
-      "metadataSyncedAt": "2026-10-31T03:40:41.850Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/lHSFAGpaew8/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.020Z"
+      "titleSyncedAt": "2026-10-31T08:39:26.778Z"
     },
     {
       "id": "work-mvvszn1b-gxajv",
@@ -747,14 +747,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-10-26T03:47:07Z",
       "publishedDate": "2025-10-26",
       "youtubeChannelTitle": "イツカ",
-      "metadataSyncedAt": "2026-10-31T03:40:41.850Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/Y1GuLtslhHM/hqdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.078Z"
+      "titleSyncedAt": "2026-10-31T08:39:26.851Z"
     },
     {
       "id": "work-mvvszn1b-n88w8",
@@ -771,14 +771,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-10-17T10:01:13Z",
       "publishedDate": "2025-10-17",
       "youtubeChannelTitle": "Gren(ｸﾞﾚﾝ)",
-      "metadataSyncedAt": "2026-10-31T03:40:41.850Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.123Z",
       "thumbnail": "https://i.ytimg.com/vi/bQDpb4QuqQA/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.135Z"
+      "titleSyncedAt": "2026-10-31T08:39:26.929Z"
     },
     {
       "id": "work-mvvszn1b-fkohj",
@@ -795,14 +795,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-10-13T10:03:10Z",
       "publishedDate": "2025-10-13",
       "youtubeChannelTitle": "うにみかん。",
-      "metadataSyncedAt": "2026-10-31T03:40:41.850Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "https://i.ytimg.com/vi/wxzMUnzqmfA/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.192Z"
+      "titleSyncedAt": "2026-10-31T08:39:27.002Z"
     },
     {
       "id": "work-mvvszn1b-3ij7z",
@@ -819,14 +819,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-12-03T11:00:06Z",
       "publishedDate": "2025-12-03",
       "youtubeChannelTitle": "トスバ / Tosba",
-      "metadataSyncedAt": "2026-10-31T03:40:41.851Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "https://i.ytimg.com/vi/xdfyW5oCo5Y/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.249Z"
+      "titleSyncedAt": "2026-10-31T08:39:27.074Z"
     },
     {
       "id": "work-mvvszn1b-kgf8h",
@@ -841,14 +841,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-02-16T01:14:24Z",
       "publishedDate": "2025-02-16",
       "youtubeChannelTitle": "葛理 リホ",
-      "metadataSyncedAt": "2026-10-31T03:40:41.851Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "https://i.ytimg.com/vi/JtgkZCf2Dt8/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.310Z"
+      "titleSyncedAt": "2026-10-31T08:39:27.144Z"
     },
     {
       "id": "work-mvvszn1b-jlvu7",
@@ -865,14 +865,14 @@ window.SITE_DATA = {
       "publishedAt": "2025-09-29T11:00:05Z",
       "publishedDate": "2025-09-29",
       "youtubeChannelTitle": "きつねこチャンネル",
-      "metadataSyncedAt": "2026-10-31T03:40:41.851Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "https://i.ytimg.com/vi/akv4c1KGSd8/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.370Z"
+      "titleSyncedAt": "2026-10-31T08:39:27.224Z"
     },
     {
       "id": "work-mvvszn1b-3dhxd",
@@ -889,14 +889,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-03-12T11:00:06Z",
       "publishedDate": "2026-03-12",
       "youtubeChannelTitle": "山吹ここな / Yamabuki Cocona",
-      "metadataSyncedAt": "2026-10-31T03:40:41.851Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "https://i.ytimg.com/vi/g9MxgwojelI/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.430Z"
+      "titleSyncedAt": "2026-10-31T08:39:27.308Z"
     },
     {
       "id": "work-mvvszn1c-koon3",
@@ -913,14 +913,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-02-22T08:00:06Z",
       "publishedDate": "2026-02-22",
       "youtubeChannelTitle": "Asura Ch.",
-      "metadataSyncedAt": "2026-10-31T03:40:41.851Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "https://i.ytimg.com/vi/3sR8l7TEGXk/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.489Z"
+      "titleSyncedAt": "2026-10-31T08:39:27.399Z"
     },
     {
       "id": "work-mvvszn1c-hk5fh",
@@ -937,14 +937,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-03-17T10:00:12Z",
       "publishedDate": "2026-03-17",
       "youtubeChannelTitle": "nana",
-      "metadataSyncedAt": "2026-10-31T03:40:41.851Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "https://i.ytimg.com/vi/BDjwUb4eI38/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.555Z"
+      "titleSyncedAt": "2026-10-31T08:39:27.475Z"
     },
     {
       "id": "work-mvvszn1c-ziw2u",
@@ -961,14 +961,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-03-31T11:00:06Z",
       "publishedDate": "2026-03-31",
       "youtubeChannelTitle": "獏ウテナ",
-      "metadataSyncedAt": "2026-10-31T03:40:41.851Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "https://i.ytimg.com/vi/f0tZRlLGCXs/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
-      "featured": true,
+      "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.619Z"
+      "titleSyncedAt": "2026-10-31T08:39:27.558Z"
     },
     {
       "id": "work-mvvszn1c-9992i",
@@ -986,14 +986,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-05-24T11:00:01Z",
       "publishedDate": "2026-05-24",
       "youtubeChannelTitle": "ジア / Nostal Zia ",
-      "metadataSyncedAt": "2026-10-31T03:40:41.851Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "https://i.ytimg.com/vi/a8iqygld_eI/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.680Z"
+      "titleSyncedAt": "2026-10-31T08:39:27.646Z"
     },
     {
       "id": "work-mvvszn1c-g8xd4",
@@ -1011,14 +1011,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-04-29T13:30:21Z",
       "publishedDate": "2026-04-29",
       "youtubeChannelTitle": "羽熊ちゃこ / ChacoHaguma",
-      "metadataSyncedAt": "2026-10-31T03:40:41.851Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "https://i.ytimg.com/vi/nfRbGesT5vk/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.739Z"
+      "titleSyncedAt": "2026-10-31T08:39:27.727Z"
     },
     {
       "id": "work-mvvszn1c-ep7wc",
@@ -1036,14 +1036,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-08-30T12:00:06Z",
       "publishedDate": "2026-08-30",
       "youtubeChannelTitle": "空跳つもり / Soratobu Tsumori 【 re;BON 】",
-      "metadataSyncedAt": "2026-10-31T03:40:41.851Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "https://i.ytimg.com/vi/l0cA9hgXmBg/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.799Z"
+      "titleSyncedAt": "2026-10-31T08:39:27.801Z"
     },
     {
       "id": "work-mvvszn1c-i3ev1",
@@ -1061,36 +1061,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-03-21T09:15:06Z",
       "publishedDate": "2026-03-21",
       "youtubeChannelTitle": "ぜある【よろずや】",
-      "metadataSyncedAt": "2026-10-31T03:40:41.851Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "https://i.ytimg.com/vi/yLvX7ysmFJA/maxresdefault.jpg",
-      "client": "",
-      "role": "Movie",
-      "description": "",
-      "featured": true,
-      "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.862Z"
-    },
-    {
-      "id": "work-mvvu2pev-qu3l3",
-      "title": "MONDO様応援広告",
-      "youtubeTitle": "MONDO様応援広告",
-      "url": "https://www.youtube.com/watch?v=s5jjmS1jhDE",
-      "categoryIds": [
-        "mv"
-      ],
-      "styleIds": [],
-      "year": "2026",
-      "publishedAt": "2026-10-31T03:19:14Z",
-      "publishedDate": "2026-10-31",
-      "youtubeChannelTitle": "simry",
-      "metadataSyncedAt": "2026-10-31T03:40:41.852Z",
-      "thumbnail": "",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.919Z"
+      "titleSyncedAt": "2026-10-31T08:39:27.864Z"
     },
     {
       "id": "work-mvvszn1c-6h1pf",
@@ -1108,14 +1086,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-09-24T11:53:10Z",
       "publishedDate": "2026-09-24",
       "youtubeChannelTitle": "空跳つもり / Soratobu Tsumori 【 re;BON 】",
-      "metadataSyncedAt": "2026-10-31T03:40:41.852Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "https://i.ytimg.com/vi/6NykqF7Viqs/maxresdefault.jpg",
       "client": "",
       "role": "Movie",
       "description": "",
-      "featured": true,
+      "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:40.981Z"
+      "titleSyncedAt": "2026-10-31T08:39:27.924Z"
     },
     {
       "id": "work-mvvt192l-xuby3",
@@ -1134,14 +1112,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-01-08T10:00:22Z",
       "publishedDate": "2026-01-08",
       "youtubeChannelTitle": "めるくん【歌ってみた】",
-      "metadataSyncedAt": "2026-10-31T03:40:41.852Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:41.036Z"
+      "titleSyncedAt": "2026-10-31T08:39:28.012Z"
     },
     {
       "id": "work-mvvt4hka-shc1j",
@@ -1159,14 +1137,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-07-13T13:30:06Z",
       "publishedDate": "2026-07-13",
       "youtubeChannelTitle": "空跳つもり / Soratobu Tsumori 【 re;BON 】",
-      "metadataSyncedAt": "2026-10-31T03:40:41.852Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:41.094Z"
+      "titleSyncedAt": "2026-10-31T08:39:28.074Z"
     },
     {
       "id": "work-mvvt4n0t-wkmos",
@@ -1184,14 +1162,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-08-31T10:00:07Z",
       "publishedDate": "2026-08-31",
       "youtubeChannelTitle": "空跳つもり / Soratobu Tsumori 【 re;BON 】",
-      "metadataSyncedAt": "2026-10-31T03:40:41.852Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:41.152Z"
+      "titleSyncedAt": "2026-10-31T08:39:28.144Z"
     },
     {
       "id": "work-mvvt6tbh-2wz0b",
@@ -1209,14 +1187,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-03-29T08:14:23Z",
       "publishedDate": "2026-03-29",
       "youtubeChannelTitle": "ぜある【よろずや】",
-      "metadataSyncedAt": "2026-10-31T03:40:41.852Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:41.216Z"
+      "titleSyncedAt": "2026-10-31T08:39:28.225Z"
     },
     {
       "id": "work-mvvt9e1a-6vt83",
@@ -1234,14 +1212,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-05-16T08:30:00Z",
       "publishedDate": "2026-05-16",
       "youtubeChannelTitle": "Banzoin Hakka Ch. HOLOSTARS-EN",
-      "metadataSyncedAt": "2026-10-31T03:40:41.852Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:41.274Z"
+      "titleSyncedAt": "2026-10-31T08:39:28.288Z"
     },
     {
       "id": "work-mvvtd4ve-oem3v",
@@ -1258,14 +1236,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-07-27T10:00:37Z",
       "publishedDate": "2026-07-27",
       "youtubeChannelTitle": "Sum!n - すみん",
-      "metadataSyncedAt": "2026-10-31T03:40:41.852Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.124Z",
       "thumbnail": "",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:41.333Z"
+      "titleSyncedAt": "2026-10-31T08:39:28.361Z"
     },
     {
       "id": "work-mvvtee56-rb0we",
@@ -1282,14 +1260,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-06-20T12:00:16Z",
       "publishedDate": "2026-06-20",
       "youtubeChannelTitle": "翡翠レン / Hisui Ren",
-      "metadataSyncedAt": "2026-10-31T03:40:41.852Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.125Z",
       "thumbnail": "",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:41.390Z"
+      "titleSyncedAt": "2026-10-31T08:39:28.442Z"
     },
     {
       "id": "work-mvvteny2-pjr28",
@@ -1306,14 +1284,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-04-01T08:00:23Z",
       "publishedDate": "2026-04-01",
       "youtubeChannelTitle": "ぬるくん(ちゃん)",
-      "metadataSyncedAt": "2026-10-31T03:40:41.852Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.125Z",
       "thumbnail": "",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:41.446Z"
+      "titleSyncedAt": "2026-10-31T08:39:28.514Z"
     },
     {
       "id": "work-mvvtfbxe-e5v69",
@@ -1330,14 +1308,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-08-23T09:00:06Z",
       "publishedDate": "2026-08-23",
       "youtubeChannelTitle": "are Ch. / はるなぎあれ",
-      "metadataSyncedAt": "2026-10-31T03:40:41.852Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.125Z",
       "thumbnail": "",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:41.510Z"
+      "titleSyncedAt": "2026-10-31T08:39:28.592Z"
     },
     {
       "id": "work-mvvtgc8x-dn2tz",
@@ -1354,14 +1332,14 @@ window.SITE_DATA = {
       "publishedAt": "2026-02-01T12:00:06Z",
       "publishedDate": "2026-02-01",
       "youtubeChannelTitle": "すもも",
-      "metadataSyncedAt": "2026-10-31T03:40:41.853Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.125Z",
       "thumbnail": "",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:41.571Z"
+      "titleSyncedAt": "2026-10-31T08:39:28.664Z"
     },
     {
       "id": "work-mvvtlrba-v4cz0",
@@ -1378,14 +1356,36 @@ window.SITE_DATA = {
       "publishedAt": "2025-04-28T10:00:49Z",
       "publishedDate": "2025-04-28",
       "youtubeChannelTitle": "きつねこチャンネル",
-      "metadataSyncedAt": "2026-10-31T03:40:41.853Z",
+      "metadataSyncedAt": "2026-10-31T08:39:29.125Z",
       "thumbnail": "",
       "client": "",
       "role": "Movie",
       "description": "",
       "featured": false,
       "published": true,
-      "titleSyncedAt": "2026-10-31T03:40:41.630Z"
+      "titleSyncedAt": "2026-10-31T08:39:28.736Z"
+    },
+    {
+      "id": "work-mvvu2pev-qu3l3",
+      "title": "MONDO様応援広告",
+      "youtubeTitle": "MONDO様応援広告",
+      "url": "https://www.youtube.com/watch?v=s5jjmS1jhDE",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [],
+      "year": "2026",
+      "publishedAt": "2026-10-31T03:19:14Z",
+      "publishedDate": "2026-10-31",
+      "youtubeChannelTitle": "simry",
+      "metadataSyncedAt": "2026-10-31T08:39:29.125Z",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": false,
+      "published": true,
+      "titleSyncedAt": "2026-10-31T08:39:28.807Z"
     }
   ],
   "services": [
