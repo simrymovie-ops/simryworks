@@ -2,9 +2,9 @@ window.SITE_DATA = {
   "site": {
     "name": "simry",
     "tagline": "movie / motion graphics",
-    "availability": "ご依頼受付中",
-    "description": "歌ってみたMV、モーショングラフィックス、配信映像などの制作をしています。",
-    "about": "現在は仕事をしながら副業にて映像制作をしています。さわやか系とダークな世界観が得意です。",
+    "availability": "11月以降ご依頼受付中",
+    "description": "歌ってみたMV、short動画、応援広告などの映像を制作しています。",
+    "about": "綺麗系とダークな世界観が得意です。",
     "tools": [
       "After Effects",
       "Blender",
@@ -20,10 +20,10 @@ window.SITE_DATA = {
   "works": [
     {
       "id": "work-1",
-      "title": "WORK 01",
+      "title": "【17歳の誕生日に歌ってみた】絶頂讃歌／さんせー",
       "year": "2026",
-      "url": "",
-      "thumbnail": "assets/work-1.jpg",
+      "url": "https://www.youtube.com/watch?v=PqPblfGCnPw&list=PLJkbwsXVBz79kSOzgaGFJUrG6wuYDezhu&index=6",
+      "thumbnail": "",
       "client": "",
       "role": "Movie / Motion Graphics",
       "description": "",
@@ -32,61 +32,71 @@ window.SITE_DATA = {
       "categoryIds": [
         "mv"
       ],
-      "youtubeTitle": "",
+      "youtubeTitle": "【17歳の誕生日に歌ってみた】絶頂讃歌／さんせー",
       "publishedAt": "",
       "publishedDate": "",
       "youtubeChannelTitle": "",
       "metadataSyncedAt": "",
-      "styleIds": []
+      "styleIds": [
+        "beautiful"
+      ],
+      "titleSyncedAt": "2026-10-31T02:06:55.317Z"
     },
     {
       "id": "work-2",
-      "title": "WORK 02",
+      "title": "CH4NGE - Giga / 59ryuu(Cover)",
       "year": "2026",
-      "url": "",
-      "thumbnail": "assets/work-2.jpg",
+      "url": "https://www.youtube.com/watch?v=WXRSdBq5xr8&list=PLJkbwsXVBz79kSOzgaGFJUrG6wuYDezhu&index=5",
+      "thumbnail": "",
       "client": "",
-      "role": "Movie / Motion Graphics",
+      "role": "Movie ",
       "description": "",
       "featured": true,
       "published": true,
       "categoryIds": [
         "mv"
       ],
-      "youtubeTitle": "",
+      "youtubeTitle": "CH4NGE - Giga / 59ryuu(Cover)",
       "publishedAt": "",
       "publishedDate": "",
       "youtubeChannelTitle": "",
       "metadataSyncedAt": "",
-      "styleIds": []
+      "styleIds": [
+        "cool"
+      ],
+      "titleSyncedAt": "2026-10-31T02:06:55.373Z"
     },
     {
       "id": "work-3",
-      "title": "WORK 03",
+      "title": "UNION／OxT　(Covered by 明心ヨミ)【歌ってみた】",
       "year": "2026",
-      "url": "",
-      "thumbnail": "assets/work-3.jpg",
+      "url": "https://www.youtube.com/watch?v=9-FAVIeO66E&list=PLJkbwsXVBz79kSOzgaGFJUrG6wuYDezhu&index=4",
+      "thumbnail": "",
       "client": "",
-      "role": "Motion Graphics",
+      "role": "Movie ",
       "description": "",
       "featured": true,
       "published": true,
       "categoryIds": [
-        "motion"
+        "motion",
+        "mv"
       ],
-      "youtubeTitle": "",
+      "youtubeTitle": "UNION／OxT　(Covered by 明心ヨミ)【歌ってみた】",
       "publishedAt": "",
       "publishedDate": "",
       "youtubeChannelTitle": "",
       "metadataSyncedAt": "",
-      "styleIds": []
+      "styleIds": [
+        "cool"
+      ],
+      "titleSyncedAt": "2026-10-31T02:06:55.437Z"
     },
     {
       "id": "work-4",
-      "title": "WORK 04",
+      "title": "不屈のアイドル -歌ってみた- 【透玲うたは】",
       "year": "2026",
-      "url": "",
-      "thumbnail": "assets/work-4.jpg",
+      "url": "https://www.youtube.com/watch?v=8_elDGKtExA&list=PLJkbwsXVBz79kSOzgaGFJUrG6wuYDezhu&index=3",
+      "thumbnail": "",
       "client": "",
       "role": "Movie",
       "description": "",
@@ -95,12 +105,412 @@ window.SITE_DATA = {
       "categoryIds": [
         "mv"
       ],
-      "youtubeTitle": "",
+      "youtubeTitle": "不屈のアイドル -歌ってみた- 【透玲うたは】",
       "publishedAt": "",
       "publishedDate": "",
       "youtubeChannelTitle": "",
       "metadataSyncedAt": "",
-      "styleIds": []
+      "styleIds": [
+        "beautiful"
+      ],
+      "titleSyncedAt": "2026-10-31T02:06:55.499Z"
+    },
+    {
+      "id": "work-mvvr5hms-b6bml",
+      "title": "【初投稿】オシオキGIMMICK!! cover 紅鴉・シャミヤール 【歌ってみた】",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [
+        "cute"
+      ],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "https://www.youtube.com/watch?v=1jMQm0Ju5z0&list=PLJkbwsXVBz79kSOzgaGFJUrG6wuYDezhu",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": true,
+      "published": true,
+      "youtubeTitle": "【初投稿】オシオキGIMMICK!! cover 紅鴉・シャミヤール 【歌ってみた】",
+      "titleSyncedAt": "2026-10-31T02:06:55.555Z"
+    },
+    {
+      "id": "work-mvvr9q10-f0x35",
+      "title": "君だけの花道/海凪みみ　cover",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [
+        "cute"
+      ],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "https://www.youtube.com/watch?v=L22Zv1K7TE8&list=PLJkbwsXVBz79kSOzgaGFJUrG6wuYDezhu&index=7",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": false,
+      "published": true,
+      "youtubeTitle": "君だけの花道/海凪みみ　cover",
+      "titleSyncedAt": "2026-10-31T02:06:55.613Z"
+    },
+    {
+      "id": "work-mvvr9tac-m5b2g",
+      "title": "のっきさま応援広告",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "https://www.youtube.com/watch?v=uo1wSBP1buo&list=PLJkbwsXVBz79kSOzgaGFJUrG6wuYDezhu&index=8",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": false,
+      "published": true,
+      "youtubeTitle": "のっきさま応援広告",
+      "titleSyncedAt": "2026-10-31T02:06:55.676Z"
+    },
+    {
+      "id": "work-mvvr9v2r-k69kb",
+      "title": "Gore Diner / wotaku feat. 初音ミク covered by 宵夜美世 YoiyaMiyo",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [
+        "cool"
+      ],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "https://www.youtube.com/watch?v=J30EyiZVUaU&list=PLJkbwsXVBz79kSOzgaGFJUrG6wuYDezhu&index=9",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": false,
+      "published": true,
+      "youtubeTitle": "Gore Diner / wotaku feat. 初音ミク covered by 宵夜美世 YoiyaMiyo",
+      "titleSyncedAt": "2026-10-31T02:06:55.741Z"
+    },
+    {
+      "id": "work-mvvr9wih-xq4qn",
+      "title": "『少女レイ』を歌ってみた cover. かれーな【オリジナルMV】",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [
+        "beautiful"
+      ],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "https://www.youtube.com/watch?v=AuaGYeppYIM&list=PLJkbwsXVBz79kSOzgaGFJUrG6wuYDezhu&index=10",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": false,
+      "published": true,
+      "youtubeTitle": "『少女レイ』を歌ってみた cover. かれーな【オリジナルMV】",
+      "titleSyncedAt": "2026-10-31T02:06:55.803Z"
+    },
+    {
+      "id": "work-mvvrcaz5-x4ujy",
+      "title": "【cover】ライラック - Mrs. GREEN APPLE【空跳つもり / re;BON１期生】",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [
+        "beautiful"
+      ],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "https://www.youtube.com/watch?v=Ym_GS2oRIOY&list=PLJkbwsXVBz79kSOzgaGFJUrG6wuYDezhu&index=12",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": true,
+      "published": true,
+      "youtubeTitle": "【cover】ライラック - Mrs. GREEN APPLE【空跳つもり / re;BON１期生】",
+      "titleSyncedAt": "2026-10-31T02:06:55.866Z"
+    },
+    {
+      "id": "work-mvvrcfix-kbf5l",
+      "title": "キュンキュンハート!! / 可不",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [
+        "cute"
+      ],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "https://www.youtube.com/watch?v=WihM_HKnvHo&list=PLJkbwsXVBz79kSOzgaGFJUrG6wuYDezhu&index=13",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": true,
+      "published": true,
+      "youtubeTitle": "キュンキュンハート!! / 可不",
+      "titleSyncedAt": "2026-10-31T02:06:55.925Z"
+    },
+    {
+      "id": "work-mvvrcgv3-zxbxj",
+      "title": "NEW WORK",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": true,
+      "published": true,
+      "youtubeTitle": ""
+    },
+    {
+      "id": "work-mvvrci8u-7d91p",
+      "title": "NEW WORK",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": true,
+      "published": true,
+      "youtubeTitle": ""
+    },
+    {
+      "id": "work-mvvrcjku-jf6jh",
+      "title": "NEW WORK",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": true,
+      "published": true,
+      "youtubeTitle": ""
+    },
+    {
+      "id": "work-mvvrckzm-avodz",
+      "title": "NEW WORK",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": true,
+      "published": true,
+      "youtubeTitle": ""
+    },
+    {
+      "id": "work-mvvrcmgh-xjf8s",
+      "title": "NEW WORK",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": true,
+      "published": true,
+      "youtubeTitle": ""
+    },
+    {
+      "id": "work-mvvrco45-fcixb",
+      "title": "NEW WORK",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": true,
+      "published": true,
+      "youtubeTitle": ""
+    },
+    {
+      "id": "work-mvvrcpgk-a3sov",
+      "title": "NEW WORK",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": true,
+      "published": true,
+      "youtubeTitle": ""
+    },
+    {
+      "id": "work-mvvrcrkp-ydtio",
+      "title": "NEW WORK",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": true,
+      "published": true,
+      "youtubeTitle": ""
+    },
+    {
+      "id": "work-mvvrctmy-6mceq",
+      "title": "NEW WORK",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": true,
+      "published": true,
+      "youtubeTitle": ""
+    },
+    {
+      "id": "work-mvvrcw0f-67cfk",
+      "title": "NEW WORK",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": true,
+      "published": true,
+      "youtubeTitle": ""
+    },
+    {
+      "id": "work-mvvrcy4i-5c4s3",
+      "title": "NEW WORK",
+      "categoryIds": [
+        "mv"
+      ],
+      "styleIds": [],
+      "year": "2026",
+      "publishedAt": "",
+      "publishedDate": "",
+      "youtubeChannelTitle": "",
+      "metadataSyncedAt": "",
+      "url": "",
+      "thumbnail": "",
+      "client": "",
+      "role": "Movie",
+      "description": "",
+      "featured": true,
+      "published": true,
+      "youtubeTitle": ""
     }
   ],
   "services": [
