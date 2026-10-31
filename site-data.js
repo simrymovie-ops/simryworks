@@ -40,7 +40,7 @@ window.SITE_DATA = {
       "styleIds": [
         "beautiful"
       ],
-      "titleSyncedAt": "2026-10-31T02:06:55.317Z"
+      "titleSyncedAt": "2026-10-31T02:06:57.399Z"
     },
     {
       "id": "work-2",
@@ -64,7 +64,7 @@ window.SITE_DATA = {
       "styleIds": [
         "cool"
       ],
-      "titleSyncedAt": "2026-10-31T02:06:55.373Z"
+      "titleSyncedAt": "2026-10-31T02:06:57.456Z"
     },
     {
       "id": "work-3",
@@ -89,7 +89,7 @@ window.SITE_DATA = {
       "styleIds": [
         "cool"
       ],
-      "titleSyncedAt": "2026-10-31T02:06:55.437Z"
+      "titleSyncedAt": "2026-10-31T02:06:57.514Z"
     },
     {
       "id": "work-4",
@@ -113,7 +113,7 @@ window.SITE_DATA = {
       "styleIds": [
         "beautiful"
       ],
-      "titleSyncedAt": "2026-10-31T02:06:55.499Z"
+      "titleSyncedAt": "2026-10-31T02:06:57.569Z"
     },
     {
       "id": "work-mvvr5hms-b6bml",
@@ -137,7 +137,7 @@ window.SITE_DATA = {
       "featured": true,
       "published": true,
       "youtubeTitle": "【初投稿】オシオキGIMMICK!! cover 紅鴉・シャミヤール 【歌ってみた】",
-      "titleSyncedAt": "2026-10-31T02:06:55.555Z"
+      "titleSyncedAt": "2026-10-31T02:06:57.627Z"
     },
     {
       "id": "work-mvvr9q10-f0x35",
@@ -161,7 +161,7 @@ window.SITE_DATA = {
       "featured": false,
       "published": true,
       "youtubeTitle": "君だけの花道/海凪みみ　cover",
-      "titleSyncedAt": "2026-10-31T02:06:55.613Z"
+      "titleSyncedAt": "2026-10-31T02:06:57.695Z"
     },
     {
       "id": "work-mvvr9tac-m5b2g",
@@ -183,7 +183,7 @@ window.SITE_DATA = {
       "featured": false,
       "published": true,
       "youtubeTitle": "のっきさま応援広告",
-      "titleSyncedAt": "2026-10-31T02:06:55.676Z"
+      "titleSyncedAt": "2026-10-31T02:06:57.753Z"
     },
     {
       "id": "work-mvvr9v2r-k69kb",
@@ -207,7 +207,7 @@ window.SITE_DATA = {
       "featured": false,
       "published": true,
       "youtubeTitle": "Gore Diner / wotaku feat. 初音ミク covered by 宵夜美世 YoiyaMiyo",
-      "titleSyncedAt": "2026-10-31T02:06:55.741Z"
+      "titleSyncedAt": "2026-10-31T02:06:57.814Z"
     },
     {
       "id": "work-mvvr9wih-xq4qn",
@@ -231,7 +231,7 @@ window.SITE_DATA = {
       "featured": false,
       "published": true,
       "youtubeTitle": "『少女レイ』を歌ってみた cover. かれーな【オリジナルMV】",
-      "titleSyncedAt": "2026-10-31T02:06:55.803Z"
+      "titleSyncedAt": "2026-10-31T02:06:57.872Z"
     },
     {
       "id": "work-mvvrcaz5-x4ujy",
@@ -255,7 +255,7 @@ window.SITE_DATA = {
       "featured": true,
       "published": true,
       "youtubeTitle": "【cover】ライラック - Mrs. GREEN APPLE【空跳つもり / re;BON１期生】",
-      "titleSyncedAt": "2026-10-31T02:06:55.866Z"
+      "titleSyncedAt": "2026-10-31T02:06:57.931Z"
     },
     {
       "id": "work-mvvrcfix-kbf5l",
@@ -279,7 +279,7 @@ window.SITE_DATA = {
       "featured": true,
       "published": true,
       "youtubeTitle": "キュンキュンハート!! / 可不",
-      "titleSyncedAt": "2026-10-31T02:06:55.925Z"
+      "titleSyncedAt": "2026-10-31T02:06:57.992Z"
     },
     {
       "id": "work-mvvrcgv3-zxbxj",
