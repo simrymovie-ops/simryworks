@@ -1,0 +1,56 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="simry - contact"><meta name="theme-color" content="#101010"><title>contact | simry</title><link rel="stylesheet" href="style.css"></head><body><header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="index.html" aria-label="simry home"><img src="assets/logo.png" alt="simry" draggable="false"></a>
+    <nav class="main-nav" aria-label="メインメニュー">
+      <a href="work.html">WORKS</a><a href="about.html">ABOUT</a><a href="price.html">PRICE</a><a href="flow.html">FLOW</a><a href="contact.html">CONTACT</a>
+    </nav>
+    <button class="menu-button" type="button" aria-label="メニューを開く" aria-expanded="false"><span>MENU</span><i></i></button>
+  </div>
+  <nav class="mobile-nav" aria-hidden="true">
+    <a href="work.html"><span>01</span>WORKS</a><a href="about.html"><span>02</span>ABOUT</a><a href="price.html"><span>03</span>PRICE</a><a href="flow.html"><span>04</span>FLOW</a><a href="request.html"><span>05</span>REQUEST GUIDE</a><a href="contact.html"><span>06</span>CONTACT</a>
+  </nav>
+</header><main>
+<section class="contact-page shell section-with-rail">
+  <div class="section-main">
+    <div class="contact-page-head contact-page-head--final">
+      <p>PROJECT INQUIRY</p>
+      <h1>CONTACT</h1>
+      <p class="contact-lead">ご依頼・お見積り・ご相談はこちらから。</p>
+    </div>
+
+    <div class="contact-meta">
+      <div>
+        <h2>ご依頼・ご相談</h2>
+        <p>ご予算・希望納期・参考映像などが分かると、よりスムーズに確認できます。</p>
+      </div>
+      <div class="contact-meta-links">
+        <a href="https://x.com/simry_movie" target="_blank" rel="noopener noreferrer">X DM</a>
+        <a href="request.html">ご依頼ガイド</a>
+      </div>
+    </div>
+
+    <form id="contact-form" class="contact-form contact-form--single" novalidate>
+      <label><span>お名前 *</span><input name="name" autocomplete="name" placeholder="simry" required></label>
+      <label><span>会社名 / 団体名</span><input name="company" autocomplete="organization" placeholder="株式会社〇〇 / 個人"></label>
+      <label class="contact-reply-field"><span>連絡先 / メールアドレス *</span><input name="reply_to" autocomplete="email" placeholder="メールアドレス / X ID / Discord ID" required><small class="field-note">こちらにご入力いただいた連絡先へ返信いたします。</small></label>
+      <label><span>ご予算</span><input name="budget" placeholder="30,000円前後"></label>
+      <label><span>希望納期</span><input name="deadline" placeholder="2026年10月末"></label>
+      <label><span>参考URL / SNS</span><input name="site" inputmode="url" placeholder="YouTube / X / 参考動画URL など"></label>
+      <label><span>お問い合わせ内容 *</span><textarea name="message" placeholder="制作内容・曲名・ご希望などをご記入ください" required></textarea></label>
+      <div class="contact-submit-row">
+        <button class="button button-light submit-button" type="submit"><span>送信する</span></button>
+        <p id="contact-status" class="contact-status" aria-live="polite"></p>
+      </div>
+      <small class="contact-form-note">フォームから直接送信されます。メールソフトは開きません。</small>
+    </form>
+  </div>
+
+  <aside class="section-rail page-rail contact-page-rail" aria-label="CONTACT補足">
+    <div>
+      <span class="rail-kicker">CONTACT</span>
+      <p>制作内容・ご予算・納期・参考URLなど、分かる範囲でご記入ください。</p>
+    </div>
+    <small>REPLY BY MAIL / SNS</small>
+  </aside>
+</section>
+</main><button class="to-top" type="button" aria-label="ページ上部へ">↑</button><script src="site-data.js"></script><script src="script.js"></script></body></html>
