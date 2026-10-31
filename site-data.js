@@ -40,7 +40,7 @@ window.SITE_DATA = {
       "styleIds": [
         "beautiful"
       ],
-      "titleSyncedAt": "2026-10-31T02:06:57.399Z"
+      "titleSyncedAt": "2026-10-31T02:09:54.383Z"
     },
     {
       "id": "work-2",
@@ -64,7 +64,7 @@ window.SITE_DATA = {
       "styleIds": [
         "cool"
       ],
-      "titleSyncedAt": "2026-10-31T02:06:57.456Z"
+      "titleSyncedAt": "2026-10-31T02:09:54.439Z"
     },
     {
       "id": "work-3",
@@ -89,7 +89,7 @@ window.SITE_DATA = {
       "styleIds": [
         "cool"
       ],
-      "titleSyncedAt": "2026-10-31T02:06:57.514Z"
+      "titleSyncedAt": "2026-10-31T02:09:54.494Z"
     },
     {
       "id": "work-4",
@@ -113,7 +113,7 @@ window.SITE_DATA = {
       "styleIds": [
         "beautiful"
       ],
-      "titleSyncedAt": "2026-10-31T02:06:57.569Z"
+      "titleSyncedAt": "2026-10-31T02:09:54.550Z"
     },
     {
       "id": "work-mvvr5hms-b6bml",
@@ -137,7 +137,7 @@ window.SITE_DATA = {
       "featured": true,
       "published": true,
       "youtubeTitle": "【初投稿】オシオキGIMMICK!! cover 紅鴉・シャミヤール 【歌ってみた】",
-      "titleSyncedAt": "2026-10-31T02:06:57.627Z"
+      "titleSyncedAt": "2026-10-31T02:09:54.610Z"
     },
     {
       "id": "work-mvvr9q10-f0x35",
@@ -161,7 +161,7 @@ window.SITE_DATA = {
       "featured": false,
       "published": true,
       "youtubeTitle": "君だけの花道/海凪みみ　cover",
-      "titleSyncedAt": "2026-10-31T02:06:57.695Z"
+      "titleSyncedAt": "2026-10-31T02:09:54.668Z"
     },
     {
       "id": "work-mvvr9tac-m5b2g",
@@ -183,7 +183,7 @@ window.SITE_DATA = {
       "featured": false,
       "published": true,
       "youtubeTitle": "のっきさま応援広告",
-      "titleSyncedAt": "2026-10-31T02:06:57.753Z"
+      "titleSyncedAt": "2026-10-31T02:09:54.724Z"
     },
     {
       "id": "work-mvvr9v2r-k69kb",
@@ -207,7 +207,7 @@ window.SITE_DATA = {
       "featured": false,
       "published": true,
       "youtubeTitle": "Gore Diner / wotaku feat. 初音ミク covered by 宵夜美世 YoiyaMiyo",
-      "titleSyncedAt": "2026-10-31T02:06:57.814Z"
+      "titleSyncedAt": "2026-10-31T02:09:54.777Z"
     },
     {
       "id": "work-mvvr9wih-xq4qn",
@@ -231,7 +231,7 @@ window.SITE_DATA = {
       "featured": false,
       "published": true,
       "youtubeTitle": "『少女レイ』を歌ってみた cover. かれーな【オリジナルMV】",
-      "titleSyncedAt": "2026-10-31T02:06:57.872Z"
+      "titleSyncedAt": "2026-10-31T02:09:54.832Z"
     },
     {
       "id": "work-mvvrcaz5-x4ujy",
@@ -255,7 +255,7 @@ window.SITE_DATA = {
       "featured": true,
       "published": true,
       "youtubeTitle": "【cover】ライラック - Mrs. GREEN APPLE【空跳つもり / re;BON１期生】",
-      "titleSyncedAt": "2026-10-31T02:06:57.931Z"
+      "titleSyncedAt": "2026-10-31T02:09:54.892Z"
     },
     {
       "id": "work-mvvrcfix-kbf5l",
@@ -279,7 +279,7 @@ window.SITE_DATA = {
       "featured": true,
       "published": true,
       "youtubeTitle": "キュンキュンハート!! / 可不",
-      "titleSyncedAt": "2026-10-31T02:06:57.992Z"
+      "titleSyncedAt": "2026-10-31T02:09:54.958Z"
     },
     {
       "id": "work-mvvrcgv3-zxbxj",
@@ -572,7 +572,7 @@ window.SITE_DATA = {
     {
       "id": "transition",
       "name": "トランジション",
-      "price": "8,000円〜",
+      "price": "5,000円〜",
       "duration": "8日〜",
       "description": "配信・動画等で使用するトランジション映像を制作します。",
       "note": "依頼内容によって価格・納期は変動します。",
@@ -583,7 +583,7 @@ window.SITE_DATA = {
     {
       "id": "stream-overlay",
       "name": "配信用オーバーレイ",
-      "price": "8,000円〜",
+      "price": "4,000円〜",
       "duration": "8日〜",
       "description": "配信画面用のオーバーレイを制作します。デザイン段階からご提案可能です。",
       "note": "内容によって価格・納期は変動します。",
@@ -609,8 +609,8 @@ window.SITE_DATA = {
       "duration": "10日〜",
       "description": "応援広告などに使用する15秒以上のモーション付き映像を制作します。",
       "note": "内容によって価格・納期は変動します。",
-      "url": "",
-      "thumbnail": "assets/service-stream.jpg",
+      "url": "https://www.youtube.com/watch?v=uo1wSBP1buo&list=PLJkbwsXVBz79kSOzgaGFJUrG6wuYDezhu&index=9",
+      "thumbnail": "",
       "homeFeatured": false
     }
   ],
