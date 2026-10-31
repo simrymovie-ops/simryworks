@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="ja">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><meta name="theme-color" content="#171717"><title>Admin | simry</title><link rel="stylesheet" href="admin.css"></head>
+<body>
+<header class="admin-header"><div class="admin-header-inner"><a class="admin-logo" href="index.html">simry</a><div class="admin-header-right"><span id="save-state">Admin</span><a href="https://simrymovie-ops.github.io/simryworks/" target="_blank" rel="noopener noreferrer">公開サイトを見る</a><a href="index.html" target="_blank" rel="noopener noreferrer">ローカル確認</a></div></div></header>
+<main class="admin-page">
+<aside class="admin-side"><p class="admin-side-title">Contents</p><nav><a href="#site">Site</a><a href="#youtube">YouTube</a><a href="#works">Works</a><a href="#genres">Categories</a><a href="#styles">Styles</a><a href="#services">Price</a><a href="#github">GitHub</a><a href="#backup">Backup</a></nav></aside>
+<div class="admin-main">
+<section class="admin-section" id="site"><div class="section-head"><div><h1>Site</h1><p>トップ・プロフィール・連絡先</p></div></div><div class="form-grid"><label><span>受付状況</span><input id="s-availability"></label><label><span>プロフィール画像URL</span><input id="s-profile"></label><label class="full"><span>トップ説明</span><textarea id="s-description" rows="3"></textarea></label><label class="full"><span>About</span><textarea id="s-about" rows="5"></textarea></label><label><span>X URL</span><input id="s-x" type="url"></label><label><span>Email</span><input id="s-email" type="email"></label><label class="full"><span>Tools（1行1項目）</span><textarea id="s-tools" rows="5"></textarea></label></div></section>
+
+<section class="admin-section" id="youtube">
+  <div class="section-head"><div><h1>YouTube</h1><p>動画タイトル・公開日時を取得し、日付分類に使います。</p></div></div>
+  <div class="youtube-settings">
+    <label class="full"><span>YouTube Data API Key（このPCのブラウザに記憶 / 消去ボタンで削除）</span><div class="inline-field"><input id="youtube-api-key" type="password" autocomplete="off" placeholder="AIza..."><button id="clear-youtube-key" type="button">消去</button></div></label>
+    <div class="form-grid youtube-options">
+      <label><span>WORKSの標準並び順</span><select id="works-sort-mode"><option value="manual">手動の並び順</option><option value="youtube-newest">YouTube公開日：新しい順</option><option value="youtube-oldest">YouTube公開日：古い順</option></select></label>
+      <label><span>公開日時による自動分類</span><select id="date-grouping"><option value="none">使用しない</option><option value="year">年別（2026 / 2025 ...）</option><option value="month">年月別（2026/09 / 2026/08 ...）</option></select></label>
+    </div>
+    <div class="action-row"><button id="sync-youtube-meta" type="button" class="primary-action">タイトル・公開日時を一括同期</button><button id="sort-by-youtube-newest" type="button">現在の作品順を公開日の新しい順にする</button></div>
+    <p id="youtube-meta-status" class="status"></p>
+    <p class="help">API Keyがない場合もタイトル同期はできますが、YouTube公開日時の自動取得にはAPI Keyが必要です。</p>
+  </div>
+</section>
+<section class="admin-section" id="works"><div class="section-head section-head-row"><div><h1>Works</h1><p>ドラッグして並び替え。YouTube URLを入れるとタイトルを同期できます。</p></div><div class="head-actions"><button id="sync-youtube" class="text-button" type="button">タイトル同期</button><button id="add-work" class="text-button" type="button">＋ 作品を追加</button></div></div><p id="yt-status" class="inline-status"></p><div class="playlist-import">
+<label for="playlist-url">作品を追加（YouTube動画URL / 再生リストURL）</label>
+<div class="inline-field"><input id="playlist-url" type="url" placeholder="https://youtu.be/... または https://www.youtube.com/playlist?list=..."><button id="import-playlist" type="button">追加</button></div>
+<div class="category-checks quick-cats" id="quick-cats"></div>
+<p class="help">カテゴリを選んでURLを貼り「追加」。動画URLなら1件、再生リストURLなら中の動画を1件ずつ追加します（再生リストはAPI Keyが必要）。登録済みの動画はスキップします。</p>
+<p id="playlist-status" class="status" role="status"></p></div>
+<div id="works-editor" class="sortable-list"></div></section>
+
+<section class="admin-section" id="genres"><div class="section-head section-head-row"><div><h1>Categories</h1><p>MV / Shorts / Motion など、大分類を自由に追加できます。</p></div><button id="add-category" class="text-button" type="button">＋ カテゴリ追加</button></div><div id="categories-editor" class="mini-sortable-list"></div></section>
+
+<section class="admin-section" id="styles"><div class="section-head section-head-row"><div><h1>Styles</h1><p>MVの中の「かわいい / かっこいい / きれい」のような小分類。親カテゴリを選んで自由に追加できます。</p></div><button id="add-style" class="text-button" type="button">＋ スタイル追加</button></div><div id="styles-editor" class="mini-sortable-list"></div></section>
+
+<section class="admin-section" id="services"><div class="section-head"><div><h1>Price</h1><p>料金・納期・参考動画</p></div></div><div id="services-editor" class="editor-list"></div></section>
+
+<section class="admin-section" id="github"><div class="section-head"><div><h1>GitHub</h1><p>site-data.js を直接更新</p></div></div><div class="form-grid"><label><span>Owner</span><input id="gh-owner" placeholder="simrycomjp-netizen"></label><label><span>Repository</span><input id="gh-repo" placeholder="portfolio"></label><label><span>Branch</span><input id="gh-branch" value="main"></label><label><span>Fine-grained token</span><input id="gh-token" type="password" autocomplete="off"></label></div><div class="action-row"><button id="clear-github" type="button">記憶した接続情報を消去</button><button id="gh-load" type="button">GitHubから読込</button><button id="gh-save" type="button" class="primary-action">GitHubへ保存</button></div><p id="status" class="status"></p><p class="help">保存前にYouTube動画のタイトルを確認します。API Keyが入力されている場合は公開日時も同期します。GitHubトークンとYouTube API Keyはsite-data.jsへ保存しません。</p></section>
+
+<section class="admin-section" id="backup"><div class="section-head"><div><h1>Backup</h1><p>site-data.js の書き出し・読み込み</p></div></div><div class="action-row"><button id="download" type="button">site-data.jsを書き出す</button><label class="file-button">site-data.jsを読み込む<input id="import" type="file" accept=".js,text/javascript"></label></div></section>
+</div></main>
+
+<template id="work-template"><article class="work-editor-card" data-id=""><div class="work-summary" draggable="true" title="クリックで編集 / ドラッグで並び替え"><button type="button" class="drag-handle" tabindex="-1">⋮⋮</button><div class="summary-thumb"><img alt=""><span>No Image</span></div><div class="summary-main"><strong data-summary-title>Untitled</strong><small data-summary-meta></small><span class="youtube-state" data-youtube-state></span></div><div class="summary-actions"><button type="button" class="danger-link" data-a="remove">削除</button><button type="button" data-a="toggle">編集</button></div></div><div class="work-body" hidden><div class="form-grid"><label class="full"><span>ページタイトル / YouTubeタイトル</span><div class="inline-field"><input data-f="title"><button type="button" data-a="sync-title">タイトル取得</button></div></label><label class="full"><span>YouTube / 作品URL</span><div class="inline-field"><input data-f="url" placeholder="https://youtu.be/..."><button type="button" data-a="sync-meta">タイトル・日時取得</button></div></label><label class="full"><span>カテゴリ</span><div class="category-checks" data-category-checks></div></label><label class="full"><span>スタイル / 小分類</span><div class="category-checks" data-style-checks></div><small class="field-help">選択したカテゴリに紐づくスタイルだけ表示されます。</small></label><label><span>公開日（分類・並び替えに使用）</span><input data-published-date type="date"></label><label><span>YouTube公開日時</span><input data-published-at readonly placeholder="APIから自動取得"></label><label><span>クライアント</span><input data-f="client"></label><label class="full"><span>サムネイルURL（YouTubeなら空欄でOK）</span><input data-f="thumbnail"></label><label class="full"><span>担当</span><input data-f="role"></label><label class="full"><span>説明</span><textarea data-f="description" rows="3"></textarea></label></div><div class="editor-foot"><label class="check"><input type="checkbox" data-f="featured"><span>トップ掲載</span></label><label class="check"><input type="checkbox" data-f="published"><span>公開</span></label></div></div></article></template>
+
+<template id="category-template"><div class="mini-sort-row" data-id=""><button class="drag-handle" draggable="true" type="button">⋮⋮</button><input data-category-name><div class="mini-actions"><button data-a="remove" type="button">削除</button></div></div></template>
+
+<template id="style-template"><div class="mini-sort-row style-sort-row" data-id=""><button class="drag-handle" draggable="true" type="button">⋮⋮</button><select data-style-category></select><input data-style-name placeholder="スタイル名"><div class="mini-actions"><button data-a="remove" type="button">削除</button></div></div></template>
+
+<template id="service-template"><article class="editor-row"><div class="editor-preview"><div class="preview-image"><img alt=""><span>No Image</span></div><div class="preview-caption"><strong data-preview-title>Service</strong><small data-preview-category>Price</small></div></div><div class="editor-fields"><div class="form-grid"><label><span>名称</span><input data-f="name"></label><label><span>料金</span><input data-f="price"></label><label><span>納期</span><input data-f="duration"></label><label class="full"><span>説明</span><input data-f="description"></label><label class="full"><span>補足（改行区切り）</span><textarea data-f="note" rows="3"></textarea></label><label class="full"><span>参考動画URL</span><input data-f="url"></label><label class="full"><span>サムネイルURL</span><input data-f="thumbnail"></label></div></div></article></template>
+<script src="site-data.js"></script><script src="admin.js"></script></body></html>
